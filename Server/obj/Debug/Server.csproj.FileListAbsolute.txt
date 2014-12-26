@@ -1,0 +1,6 @@
+c:\Users\Виктория\documents\visual studio 2013\Projects\Task1\Server\bin\Debug\Server.exe.config
+c:\Users\Виктория\documents\visual studio 2013\Projects\Task1\Server\bin\Debug\Server.exe
+c:\Users\Виктория\documents\visual studio 2013\Projects\Task1\Server\bin\Debug\Server.pdb
+c:\Users\Виктория\documents\visual studio 2013\Projects\Task1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\Users\Виктория\documents\visual studio 2013\Projects\Task1\Server\obj\Debug\Server.exe
+c:\Users\Виктория\documents\visual studio 2013\Projects\Task1\Server\obj\Debug\Server.pdb

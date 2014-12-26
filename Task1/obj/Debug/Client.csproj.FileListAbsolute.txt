@@ -1,0 +1,6 @@
+c:\users\виктория\documents\visual studio 2013\Projects\Task1\Task1\bin\Debug\Task1.exe.config
+c:\users\виктория\documents\visual studio 2013\Projects\Task1\Task1\bin\Debug\Task1.exe
+c:\users\виктория\documents\visual studio 2013\Projects\Task1\Task1\bin\Debug\Task1.pdb
+c:\users\виктория\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\виктория\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.exe
+c:\users\виктория\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.pdb
